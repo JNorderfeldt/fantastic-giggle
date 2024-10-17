@@ -1,5 +1,7 @@
 # fantastic-giggle
+
 SciViz course - Mermaid exercise
+
 ```mermaid
 A[Graphs] --> B(Data visualization)
 B --> C{Eye catching}
