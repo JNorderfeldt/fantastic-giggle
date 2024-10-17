@@ -1,7 +1,6 @@
 # fantastic-giggle
 SciViz course - Mermaid exercise
-```
-    mermaid
+```mermaid
 A[Graphs] --> B(Data visualization)
 B --> C{Eye catching}
 B --> D{Explaining}
